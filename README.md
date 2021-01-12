@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups.
 - 📝 You can also find some of my writings on [medium](https://anubhabswain69.medium.com/).
 - 👯 We can connect to play some games of Chess. ♟
-- 📫 You can find me [here](https://anubhabishere.github.io/).
+- 📫 You can find more about me [here](https://anubhabishere.github.io/).
 - ⚡ Fun fact: Je connais un peu le français.
 <br><br>
 <p align="center">
