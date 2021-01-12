@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![GIF](GIF "GIF")](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif "GIF")
+
 ### 🐱My Github stats:
 ![Anubhab's github stats](https://github-readme-stats.vercel.app/api?username=anubhab-code&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab-code&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
