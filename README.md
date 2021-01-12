@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 📝 You can also find some of my writings on [medium](https://anubhabswain69.medium.com/).
 - 👯 We can connect to play some games of Chess. ♟
 - 📫 You can find more about me [here](https://anubhabishere.github.io/).
-- ⚡ Fun fact: Je connais un peu le français.
+- ⚡ Fun fact: Je ne connais pas le français :)
 <br><br>
 <p align="center">
       <img src="https://github.com/anubhab-code/anubhab-code/blob/main/c-programming.svg" alt="c" width="65" height="65"/> 
