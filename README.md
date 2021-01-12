@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="380" height="243" />
 
 - 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology.  
-- 💻 I use daily **.py**, **.c**, **.cpp**.
+- 💻 I use daily **.py**, **.c** & **.cpp**.
 - 🌱 I’m currently learning Basics of Machine Learning.
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups.
+- 💬 Talk to me about F1, Badminton and Photography.  
 - 📝 You can also find some of my writings on [medium](https://anubhabswain69.medium.com/).
 - 👯 We can connect to play some games of Chess. ♟
 - 📫 You can find more about me [here](https://anubhabishere.github.io/).
