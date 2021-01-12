@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ### 🤵 About Me:
-      <img align="right" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="400" height="256" />
+<img align="right" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="400" height="256" />
 - 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology.  
 - 💻 I use daily **.py**, **.c**, **.cpp**.
 - 🌱 I’m currently learning Basics of Machine Learning.
