@@ -43,11 +43,15 @@ Here are some ideas to get you started:
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
 </p>
+
 <br>
+
 ### 🐱My Github stats:
 ![Anubhab's github stats](https://github-readme-stats.vercel.app/api?username=anubhab-code&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab-code&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
+
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
