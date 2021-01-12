@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://github.com/anubhab-code/anubhab-code/blob/main/header.png)
 
-<img align="center" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="500" height="320" />
+<img align="cright" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="500" height="320" />
 
 ### 🤵 About Me:
 - 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology.  
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 👯 We can connect to play some games of Chess. ♟
 - 📫 You can find me [here](https://anubhabishere.github.io/).
 - ⚡ Fun fact: Je connais un peu le français.
-
+<br><br>
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
