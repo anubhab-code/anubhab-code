@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🤵 About Me:
+- 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology. 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 I use daily **.py**, **.c**, **.cpp**
+- 🌱 I’m currently learning Basics of Machine Learning.
+- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
+- 📝 You can also find some of my writings on [medium](https://anubhabswain69.medium.com/)
+- 👯 We can connect to play some games of Chess ♟
+- ⚡ Fun fact: Je connais un peu le français
+
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
