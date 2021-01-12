@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="centre" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="500" height="320" />
 
 ### 🤵 About Me:
 - 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology.  
