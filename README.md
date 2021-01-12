@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="centre" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="500" height="320" />
+
 ### 🤵 About Me:
-- 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology. 
-      <img align="right" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="500" height="320" />
+- 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology.  
 - 💻 I use daily **.py**, **.c**, **.cpp**.
 - 🌱 I’m currently learning Basics of Machine Learning.
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups.
