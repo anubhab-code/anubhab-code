@@ -44,8 +44,6 @@ Here are some ideas to get you started:
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
 </p>
 
-[![GIF](GIF "GIF")](https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif)
-
 ### 🐱My Github stats:
 ![Anubhab's github stats](https://github-readme-stats.vercel.app/api?username=anubhab-code&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab-code&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
