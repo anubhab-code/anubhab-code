@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://github.com/anubhab-code/anubhab-code/blob/main/header.png)
+
 <img align="center" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="500" height="320" />
 
 ### 🤵 About Me:
