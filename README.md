@@ -48,7 +48,11 @@ Here are some ideas to get you started:
 <br>
 
 ### 🐱My Github stats:
-![Anubhab's github stats](https://github-readme-stats.vercel.app/api?username=anubhab-code&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])<br>
+<a href="https://github.com/anubhab-code">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhab-code&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Anubhab's github stats"/>
+</a>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anubhab-code&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab-code&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
