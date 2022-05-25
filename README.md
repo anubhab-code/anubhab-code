@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 🤵 About Me:
 
-<img align="right" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="380" height="243" />
+<!-- <img align="right" alt="GIF" src="https://github.com/anubhab-code/anubhab-code/blob/main/dev_gif.gif?raw=true" width="380" height="243" /> -->
 
 - 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology.  
 - 💻 I use daily **.py**, **.c** & **.cpp**.
