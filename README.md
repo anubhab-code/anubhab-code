@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology.  
 - 💻 I use daily **.py**, **.c** & **.cpp**.
-- 🌱 I’m currently learning Basics of Machine Learning.
+- 🌱 I’m currently interning at a startup.
 - 💬 Talk to me about F1, Badminton and Photography.  
 - 📝 You can also find some of my writings on [medium](https://anubhabswain69.medium.com/).
 - 👯 We can connect to play some games of Chess. ♟
